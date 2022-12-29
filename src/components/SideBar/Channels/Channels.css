@@ -1,0 +1,11 @@
+.ui.menu .item{
+    color : rgb(245, 245, 248) !important;
+}
+
+.clickable:hover{
+    cursor: pointer;
+}
+
+.ui.menu .item.active{
+    background : #1164A3 !important;
+}
